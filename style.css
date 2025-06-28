@@ -1,11 +1,11 @@
 :root {
-    --primary-color: #4361ee;
-    --primary-dark: #3a56d4;
-    --secondary-color: #3f37c9;
-    --accent-color: #4895ef;
+    --primary-color: #d1318e;
+    --primary-dark: #f51899;
+    --secondary-color: #f5076a;
+    --accent-color: #ac3082;
     --danger-color: #f72585;
-    --success-color: #4cc9f0;
-    --warning-color: #f8961e;
+    --success-color: #df10a194;
+    --warning-color: #bb0a94;
     --dark-color: #212529;
     --light-color: #f8f9fa;
     --gray-color: #6c757d;
@@ -43,7 +43,7 @@ header {
 .logo {
     font-size: 2.5rem;
     font-weight: 700;
-    background: linear-gradient(90deg, #4cc9f0, #f72585);
+    background: linear-gradient(90deg, #d82da5, #f72585);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
@@ -354,7 +354,7 @@ footer {
 }
 
 .muito-forte {
-    background: #4cc9f0;
+    background: #e21593;
     width: 100%;
 }
 
